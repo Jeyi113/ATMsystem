@@ -5,6 +5,7 @@ Project co-implemented by jeyi Yoo & junseo Kang in 2021
 ATM.cpp contains the main function.
 The other header files define each classes related with ATM process.
 The Class diagram describes the entire code structure through UML diagram.
+The text files are the result of the program after running.
 
 Just notice, this was my very first term project that I've done cooperating with a teamate.
 Also it was my first semester that I started to study C++ languages.
