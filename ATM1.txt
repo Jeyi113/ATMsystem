@@ -1,0 +1,2 @@
+	Time			Transaction ID		    Card Number	      Transaction Types		   Amount	  Other Transaction-specific Information
+
